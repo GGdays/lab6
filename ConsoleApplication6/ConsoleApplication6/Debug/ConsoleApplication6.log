@@ -1,0 +1,5 @@
+﻿  ConsoleApplication6.cpp
+c:\users\lenovo\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(15): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note:  см. объявление "getch"
+c:\users\lenovo\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(58): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note:  см. объявление "getch"
